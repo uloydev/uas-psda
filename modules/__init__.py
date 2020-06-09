@@ -1,1 +1,1 @@
-from .tree import Tree
+from .core import Core as Application
